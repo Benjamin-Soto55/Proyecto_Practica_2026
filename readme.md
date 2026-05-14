@@ -41,3 +41,19 @@ Desarrollar un sistema de escritorio para la gestión y control de stock de una 
 <p>
 El proyecto contempla el desarrollo de un sistema de escritorio orientado al control de stock de productos eléctricos. El sistema permitirá registrar productos, consultar inventario, actualizar cantidades disponibles, registrar entradas y salidas de mercadería y generar reportes básicos de stock. El sistema estará destinado al uso interno de la tienda y trabajará con una base de datos local. No incluirá ventas online, facturación electrónica ni acceso remoto desde internet en esta primera versión.
 </p>
+
+<h2>Cronograma de Actividades</h2>
+
+<h2>Estudio de Factibilidad</h2>
+
+<p><b>Tecnica</b></p>
+
+<p><b>Economica</b></p>
+
+<p><b>Operativs</b></p>
+
+<h2>Requeremientos Funcionales</h2>
+
+<p><b>Requisitos Generales</b></p>
+
+<p><b>Requisitos Funcionales</b></p>

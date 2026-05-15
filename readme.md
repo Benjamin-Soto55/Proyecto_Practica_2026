@@ -175,3 +175,122 @@ a partir de su fecha de nacimiento.
 <h2>Compilación</h2>
 
 <a href="./Script.java">Ejecutar Script</a>
+
+<h2>Diseño</h2>
+
+<p>El sistema contará con:</p>
+
+<ul>
+    <li>Pantalla de inicio de sesión.</li>
+    <li>Menú principal de navegación.</li>
+    <li>Módulo de gestión de productos.</li>
+    <li>Módulo de entradas y salidas de mercadería.</li>
+    <li>Módulo de consultas y reportes.</li>
+</ul>
+
+<h2>Modelo de Datos</h2>
+
+<p><b>Datos de Entrada</b><br>Los datos ingresados al sistema serán:</p>
+
+<ul>
+    <li>Código del producto.</li>
+    <li>Nombre del producto.</li>
+    <li>Categoría.</li>
+    <li>Marca.</li>
+    <li>Cantidad disponible.</li>
+    <li>Precio.</li>
+    <li>Fecha de ingreso..</li>
+    <li>Usuario y contraseña.</li>
+    <li>Registro de entradas y salidas de mercadería.</li>
+</ul>
+
+<p><b>Datos Internos</b><br>Los datos internos procesados por el sistema serán:</p>
+
+<ul>
+    <li>Actualización automática del stock.</li>
+    <li>Control de productos disponibles.</li>
+    <li>Verificación de usuarios autorizados.</li>
+    <li>Validación de datos ingresados.</li>
+    <li>Generación de reportes.</li>
+    <li>Historial de movimientos de stock.</li>
+</ul>
+
+<p><b>Datos de Salida</b><br>Los datos de salida generados por el sistema serán:</p>
+
+<ul>
+    <li>Reportes de stock.</li>
+    <li>Listado de productos disponibles.</li>
+    <li>Alertas de stock bajo.</li>
+    <li>Consultas por categoría o código.</li>
+    <li>Información actualizada del inventario.</li>
+    <li>Resultados de búsquedas de productos.</li>
+</ul>
+
+<h2>Base de Datos</h2>
+
+<p>Las principales tablas serán:</p>
+
+<ul>
+    <li>Productos</li>
+    <li>Usuarios</li>
+    <li>Entradas</li>
+    <li>Salidas</li>
+    <li>Categorías</li>
+</ul>
+
+<h2>Dependencias</h2>
+
+<p>Para el funcionamiento del sistema se requerirán las siguientes dependencias:</p>
+
+<ul>
+    <li>Java Development Kit (JDK).</li> 
+    <li>Librerías de conexión a base de datos JDBC.</li> 
+    <li>Sistema gestor de base de datos. </li>
+    <li>Git para control de versiones.</li>
+</ul>
+
+<h2>Software (Herramientas)</h2>
+
+<p>Las herramientas utilizadas en el desarrollo serán:</p>
+
+<ul>
+    <li>NetBeans.</li>
+    <li>Git.</li>
+    <li>GitHub.</li>
+    <li>Java.</li>
+    <li>MySQL.</li>
+    <li>Windows 10 como sistema operativo.</li> 
+</ul>
+
+<h2>Procedimientos de Instalación</h2>
+
+<ol>
+    <li>Instalar Java JDK.</li> 
+    <li>Instalar el entorno de desarrollo (NetBeans).</li> 
+    <li>Clonar el repositorio del proyecto utilizando Git:</li> 
+    <li>Abrir el proyecto en el entorno de desarrollo.</li>
+    <li>Configurar la base de datos.</li>
+    <li>Ejecutar el proyecto.</li>
+    <li>Verificar la conexión con la base de datos.</li>
+</ol> 
+
+<h2>Procedimientos de Testing</h2>
+
+<p>Las pruebas realizadas al sistema serán:</p>
+
+<ol>
+    <li>Verificación de inicio de sesión.</li> 
+    <li>Registro de nuevos productos.</li>
+    <li>Modificación de productos.</li>
+    <li>Eliminación de productos.</li>
+    <li>Registro de entradas y salidas.</li> 
+    <li>Validación de actualización automática del stock.</li> 
+    <li>Búsqueda de productos.</li>
+    <li>Generación de reportes.</li>
+    <li>Verificación de integridad de datos.</li> 
+    <li>Comprobación de funcionamiento general del sistema.</li>
+<ol>
+
+<h2>Comando Git Branch -D</h2>
+
+<p>El comando git branch -D sirve para eliminar una rama de Git de manera forzada, incluso si la rama contiene cambios que todavía no fueron fusionados</p>
